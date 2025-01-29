@@ -187,6 +187,7 @@ footer p a:hover {
       left: 10px;
       background-color: #0078D7;
       color: white;
+	  font-weight: bold;
       padding: 8px 16px;
       text-decoration: none;
       border-radius: 5px;
@@ -195,6 +196,9 @@ footer p a:hover {
 
 .skip-link:focus {
       top: 10px;
+	  background-color: #005ba1; 
+      color: white; 
+      outline: none;
     }
 	
 .image-container img {
